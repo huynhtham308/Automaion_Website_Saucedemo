@@ -1,0 +1,21 @@
+[
+  {
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "product_name_data": "Sauce Labs Backpack"
+  },
+  {
+    "username": "problem_user",
+    "password": "secret_sauce",
+    "product_name_data": "Sauce Labs Fleece Jacket"
+  },
+  {
+    "username": "visual_user",
+    "password": "secret_sauce",
+    "product_name_data": "Sauce Labs Onesie"
+  }, {
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "product_name_data": "Sauce Labs Bolt T-Shirt"
+}
+]
